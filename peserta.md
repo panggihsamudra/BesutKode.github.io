@@ -8,3 +8,4 @@
 | Dihak                         | Dihak                           | dihak.github.io                                | Sudah, 1 Sampai 10      |
 | rafidaslam                    | rafidaslam                      | rafidaslam.github.io                           | Soal nomor 1,2,8        |
 | ikraduya                    | ikraduya                      | ikraduya.github.io                           | Soal nomor 1-26,28        |
+| panggihsamudra                    | panggihsamudra                      | panggihsamudra.github.io                           | Sudah, soal nomor 1   |
